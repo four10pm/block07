@@ -19,5 +19,5 @@ let code2 = 45-5;
 //variable for code 3 (multiplication) = 39 //
 let code3= 13*3; 
 
-//final code should = 116//
+//final code should = 10-40-39//
 alert (msg + code1 + " - " + code2 + " - " + code3);
