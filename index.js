@@ -1,30 +1,3 @@
-/* Guided practice:  
-1. Open the tap
-2. Wet your toothbrush
-3. Open the toothpaste
-4. Put toothpaste on your toothbrush
-5. Wet your toothbrush
-6. Use your toothbrush to brush your teeth for 2 minutes
-7. Spit out the toothpaste 
-8. Rinse off your toothbrush
-9. Put everything away and close the tap
-
-let numCows = 50; 
-let hello = "Hello World!"; 
-console.log (hello); 
-console.log ("Hello " + "Disneyland"); 
-let numUmbrellas = 10 * 3;
-console.log (numUmbrellas);
-let num = 5 + 1; 
-console.log (num);
-const helloWorld = "Hello" + " " + "World";
-console.log (helloWorld);
-let hello2 = "Hello";
-let iam = "I am";
-let name1 = "Josh";
-console.log (hello2 + " " + iam + " " + name1);
-alert (hello2 + " " + iam + " " + name1); */
-
 /* Steps: 
 1. Declare variable for message to user (string)
 CODE = 116
